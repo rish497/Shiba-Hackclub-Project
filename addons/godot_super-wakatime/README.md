@@ -1,3 +1,4 @@
+
 <a id="readme-top"></a>
 
 <!-- SHIELDS -->
@@ -17,7 +18,7 @@
     <p align="center">
         Tool to measure time spent in loved by many people game engine - Godot
         <br />
-        Officially approved to use in High Seas event created by Hack Club
+        Officially approved to use in events created by Hack Club
         <br />
         <br />
         <a href="https://godotengine.org/asset-library/asset/3484">Get from Asset Lib</a>
@@ -89,7 +90,7 @@ It required a lot of workarounds, but it was a pleasure to use it
 How to install and use this software? It's easy!
 
 ### Installation
-You can either download it from the [Godot Asset Library](https://godotengine.org/asset-library/asset/3484).
+You can either download it from asset lib (will provide a link, once it gets accepted)
 <br />Or you can manually install it, here's how to do it!
 1. Clone the repository
     ```sh
@@ -112,10 +113,10 @@ Don't know how to use this plugin? Here are the steps:
     ```
     Where xxxx is your api key
 <br /><br />
-If you are coming from High Seas used this:
+If you are coming from Hack Club use this:
     ```sh
     [settings]
-    api_url = https://waka.hackclub.com/api
+    api_url = https://hackatime.hackclub.com/api/hackatime/v1
     api_key=xxxx
     ```
 4. Wakatime CLI should have been installed automatically along with Ouch! Decompression library
